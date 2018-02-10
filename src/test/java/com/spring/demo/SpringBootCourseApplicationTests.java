@@ -1,4 +1,4 @@
-package com.rafael.demo;
+package com.spring.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

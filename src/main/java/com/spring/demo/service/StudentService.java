@@ -1,7 +1,7 @@
-package com.rafael.demo.service;
+package com.spring.demo.service;
 
-import com.rafael.demo.dao.StudentDao;
-import com.rafael.demo.model.Student;
+import com.spring.demo.dao.StudentDao;
+import com.spring.demo.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

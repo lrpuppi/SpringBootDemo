@@ -1,12 +1,11 @@
-package com.rafael.demo.controller;
+package com.spring.demo.controller;
 
-import com.rafael.demo.model.Student;
-import com.rafael.demo.service.StudentService;
+import com.spring.demo.model.Student;
+import com.spring.demo.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
-import java.awt.*;
 import java.util.List;
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package com.rafael.demo.model;
+package com.spring.demo.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

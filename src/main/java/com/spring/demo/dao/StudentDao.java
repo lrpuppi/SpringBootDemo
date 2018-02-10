@@ -1,6 +1,6 @@
-package com.rafael.demo.dao;
+package com.spring.demo.dao;
 
-import com.rafael.demo.model.Student;
+import com.spring.demo.model.Student;
 
 import java.util.List;
 import java.util.UUID;

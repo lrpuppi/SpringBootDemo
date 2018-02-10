@@ -1,6 +1,6 @@
-package com.rafael.demo.dao;
+package com.spring.demo.dao;
 
-import com.rafael.demo.model.Student;
+import com.spring.demo.model.Student;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;
